@@ -1,0 +1,25 @@
+{
+  "name": "backbone-jquery",
+  "version": "1.0.1",
+  "description": "Adds $ to Backbone for Browserify environment ",
+  "main": "backbone-jquery.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZIJ/backbone-jquery"
+  },
+  "keywords": [
+    "backbone",
+    "jquery",
+    "browserify"
+  ],
+  "author": "Igor Zalutsky <igor.zalutsky@gmail.com> (http://github.com/zij)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZIJ/backbone-jquery/issues"
+  },
+  "homepage": "https://github.com/ZIJ/backbone-jquery",
+  "dependencies": {
+    "backbone": "*",
+    "jquery": "*"
+  }
+}
